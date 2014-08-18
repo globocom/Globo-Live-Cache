@@ -102,6 +102,8 @@ $ vagrant ssh
 vagrant@precise32: $ sudo tail -f /var/log/squid3/*log
 ```
 
+Vale ressaltar que é possível exportar a máquina virtual do _Vagrant_ para provedores _cloud_, como por exemplo: [Amazon EC2](http://www.iheavy.com/2014/01/16/how-to-deploy-on-amazon-ec2-with-vagrant/) e [Digital Ocean.](https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-as-your-provider-in-vagrant-on-an-ubuntu-12-10-vps)
+
 #Conclusão
 
 Em testes realizados, percebemos que quando 10 usuários utilizam o _proxy_ para acessar vídeos ao vivo da Globo.com, o ganho é de aproximadamente 90% de banda sobre vídeos. Aumentando o número de usuários para 1000, o ganho chega a 99,9%. Assim, se considerarmos um arquivo de vídeo no _bitrate_ mais alto, o ganho pode ser em torno de 1Gb por pedaço de vídeo.
