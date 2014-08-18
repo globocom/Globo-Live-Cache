@@ -1,4 +1,5 @@
-TENÇÃO: Esta documentação pode ser modificada a qualquer momento, sem aviso prévio.
+```
+ATENÇÃO: Esta documentação pode ser modificada a qualquer momento, sem aviso prévio.
 Portanto, é recomendado a consulta frequente desta página.
 VERSÃO: 1
 DATA: 18/08/2014
