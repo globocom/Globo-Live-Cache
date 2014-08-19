@@ -9,14 +9,13 @@ DATA: 18/08/2014
 
 A documentação a seguir descreve o que fazer para _cachear_ vídeos ao vivo da Globo.com.
 
-> O _caching_ de vídeo ao vivo da Globo.com segue a *RFC-2616*:
-> [seções 13](http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html) e
-> [14](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.9). Portanto, basta que seu servidor de proxy seja compatível
-> com o padrão para que o _cache_ seja efetivo.
+__A entrega de vídeo ao vivo da Globo.com usa o protocolo HLS de acordo com a *RFC-2616* do HTTP 1.1:
+ [seções 13](http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html) e
+ [14](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.9). Portanto, basta que seu servidor de proxy seja compatível com o padrão para que o _cache_ seja efetivo.__
 
 _Cache_ é o mecanismo para armazenamento temporário de objetos, neste caso, pedaços de vídeos. Uma definição mais formal e completa sobre _web-caching_ pode ser encontrada na [wikipedia](http://pt.wikipedia.org/wiki/Web_cache).
 
-> Web cache é um armazenamento temporário no disco rígido de páginas web, imagens e outros documentos e ficheiros utilizando técnicas de cache para reduzir o uso largura de banda disponível, aumentar a velocidade do acesso, entre outras vantagens.
+__Web cache é um armazenamento temporário no disco rígido de páginas web, imagens e outros documentos e ficheiros utilizando técnicas de cache para reduzir o uso largura de banda disponível, aumentar a velocidade do acesso, entre outras vantagens.__
 
 #Motivações para uso
 
