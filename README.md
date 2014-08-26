@@ -5,6 +5,8 @@ VERSÃO: 1
 DATA: 18/08/2014
 ```
 
+![Project logo](https://raw.githubusercontent.com/globocom/Globo-Live-Cache/master/logo.png)
+
 #Introdução
 
 A documentação a seguir descreve o que fazer para _cachear_ vídeos ao vivo da Globo.com.
