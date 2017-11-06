@@ -1,5 +1,7 @@
 ```
-ATENÇÃO: Esta documentação está deprecated, desde que adotamos SSL na entrega de vídeos. Estamos mantendo-a no ar somente por razões históricas. NÃO FUNCIONA. Está em nosso roadmap a criação de um novo projeto focado em oferecer cache nas operadoras, ao longo de 2018.
+ATENÇÃO: Esta documentação está deprecated, desde que adotamos SSL na entrega de vídeos. Estamos mantendo-a no ar 
+somente por razões históricas. NÃO FUNCIONA. Está em nosso roadmap a criação de um novo projeto focado em oferecer
+cache nas operadoras, ao longo de 2018.
 ```
 
 ![Project logo](https://raw.githubusercontent.com/globocom/Globo-Live-Cache/master/logo.png)
