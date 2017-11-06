@@ -1,8 +1,5 @@
 ```
-ATENÇÃO: Esta documentação pode ser modificada a qualquer momento, sem aviso prévio.
-Portanto, é recomendado a consulta frequente desta página.
-VERSÃO: 1
-DATA: 18/08/2014
+ATENÇÃO: Esta documentação está deprecated, desde que adotamos SSL na entrega de vídeos. Estamos mantendo-a no ar somente por razões históricas. NÃO FUNCIONA. Está em nosso roadmap a criação de um novo projeto focado em oferecer cache nas operadoras, ao longo de 2018.
 ```
 
 ![Project logo](https://raw.githubusercontent.com/globocom/Globo-Live-Cache/master/logo.png)
